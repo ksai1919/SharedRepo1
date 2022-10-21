@@ -1,4 +1,4 @@
 def gitrepo(repo)
 {
-  git "${repo}"
+  git  "${repo}"
 }
